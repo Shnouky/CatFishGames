@@ -1,9 +1,11 @@
-/*Contacte*/
+  /*Contacte*/
 
 .Parent{
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 500px;
+  height: 500px;
 }
 
 .formulaire {
@@ -13,10 +15,9 @@
     align-items: center;
   }
 
-  form.formulaire{
+  form.formulaire {
     width: 1000px;
-  }
-
+}
   
   form{
     max-width:850px;
